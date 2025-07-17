@@ -4,7 +4,7 @@ A macro for the Roblox game [Asylum Life](https://www.roblox.com/games/132352755
 
 ## Builds
 
-For simple usage, you can download a pre-compiled executable from the [releases page](httpss://github.com/Verilisity/asylum-life-crouch-macro/releases). This is the easiest way to get started without needing to install Python or any dependencies. Might give antivirus false positives, there is no way they are getting me to pay for a code signing certificate.
+For simple usage, you can download a pre-compiled executable from the [releases page](https://github.com/Verilisity/asylum-life-crouch-macro/releases/latest). This is the easiest way to get started without needing to install Python or any dependencies. Might give antivirus false positives, there is no way they are getting me to pay for a code signing certificate.
 
 ## Installation
 
